@@ -1,0 +1,7 @@
+__MACOSX
+.env
+.idea
+.wttd
+*.sqlite3
+*pyc
+__pycache__
